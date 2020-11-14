@@ -22,6 +22,7 @@ def main():
         "What do you want to generate?",
         choices=[
             "Apache Config",
+            "Windows Install",
         ],
         style=style,
     ).ask()
@@ -74,5 +75,8 @@ def main():
             )
         else:
             print("Failed to generate: missing answers!")
+    elif generator == "Windows Apache2 Modifier Install":
+            gen = Windowsa2Installer()
+            gen.generate() 
     else:
         print("Nothing to generate, exiting...")
