@@ -16,8 +16,13 @@ Command-line multipurpose config generator.
 
 ## Installation
 
+-   **If you're running Unix/Linux***
 -   Run `pip3 install pympg` to install this package.
 -   Run `sudo pympg` to open the generation prompt.
+-   **If you're running Windows**
+-   Run `Set-ExecutionPolicy RemoteSigned` in an elevated PowerShell window.
+-   Run `pympg -wininstall` to install the nessesary script
+-   Run `pympg` to open the generation prompt.
 
 ## Development Build Instructions
 
