@@ -21,8 +21,7 @@ Command-line multipurpose config generator.
 -   Run `sudo pympg` to open the generation prompt.
 -   **If you're running Windows**
 -   Run `Set-ExecutionPolicy RemoteSigned` in an elevated PowerShell window.
--   Run `pympg -wininstall` to install the nessesary script
--   Run `pympg` to open the generation prompt.
+-   Run `pympg` and select `Windows Install` to install the nessesary scripts.
 
 ## Development Build Instructions
 
