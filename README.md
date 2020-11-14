@@ -1,10 +1,10 @@
-# ![Tux](https://cdn2.iconfinder.com/data/icons/designer-skills/128/linux-server-system-platform-os-computer-penguin-64.png)pympg
+# ![Config Icon](https://www.iconfinder.com/icons/1976051/download/png/64)pympg
 
 Command-line multipurpose config generator.
 
 ## Example
 
-![Example GIF](./assets/pympg-example.gif).
+![Example GIF](./assets/pympg-example.gif)
 
 ## Prerequisites
 
