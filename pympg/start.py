@@ -69,6 +69,8 @@ restart = (
     input("Would you like to reload the configuration now? [n] \n> ").lower() or "n"
 )
 if restart == "y" or restart == "yes":
-    if 
-    os.system("sudo apachectl -k graceful")
+    if os.name == 'nt' :
+       os.system("httpd -k graceful")
+    else:
+       os.system("sudo apachectl -k graceful")
 exit(0)
