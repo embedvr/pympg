@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "onyxcode",
+      "name": "Dan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/58049576?v=4",
+      "profile": "https://onyxcode.net",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "pympg",
+  "projectOwner": "throw-out-error",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
