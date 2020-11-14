@@ -1,0 +1,1 @@
+poetry build && pip3 install dist/pympg-*.tar.gz
